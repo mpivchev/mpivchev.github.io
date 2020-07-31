@@ -7,10 +7,10 @@ description:
 # User settings
 username: Milen Pivchev
 user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Mobile Developer
+user_title: Software Developer
 email: milen.pivchev@gmail.com
 
 linkedin_username: milen-pivchev
-github_username:  mpivchev
+github_username: mpivchev
 
 exclude: ['package.json', 'src' , 'node_modules']
